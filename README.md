@@ -283,3 +283,8 @@ The original `.env` file that was in the zip contained a **real MongoDB
 username and password**. It has been removed from this version. If that
 database is still using those credentials, **rotate the password now** in
 MongoDB Atlas, since it was exposed in a file you shared.
+## Live Demo
+
+🌐 Frontend: https://team-task-manager-one-eta.vercel.app
+
+⚙️ Backend API: https://team-task-manager-9-1oms.onrender.com
